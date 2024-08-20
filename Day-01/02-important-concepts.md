@@ -1,4 +1,4 @@
-# Vocabulary in Cloud Computing
+## Vocabulary in Cloud Computing
 
 ## Virtualization
 
